@@ -1,2 +1,24 @@
-PKG alcotest unmark fmt
-REC
+EXCLUDE_QUERY_DIR
+B /Users/avsm/.opam/foo/lib/alcotest
+B /Users/avsm/.opam/foo/lib/astring
+B /Users/avsm/.opam/foo/lib/bytes
+B /Users/avsm/.opam/foo/lib/cmdliner
+B /Users/avsm/.opam/foo/lib/fmt
+B /Users/avsm/.opam/foo/lib/result
+B /Users/avsm/.opam/foo/lib/uchar
+B /Users/avsm/.opam/foo/lib/uuidm
+B /usr/local/lib/ocaml
+B ../_build/default/src/.psq.objs/byte
+B ../_build/default/test/.test.eobjs/byte
+S /Users/avsm/.opam/foo/lib/alcotest
+S /Users/avsm/.opam/foo/lib/astring
+S /Users/avsm/.opam/foo/lib/bytes
+S /Users/avsm/.opam/foo/lib/cmdliner
+S /Users/avsm/.opam/foo/lib/fmt
+S /Users/avsm/.opam/foo/lib/result
+S /Users/avsm/.opam/foo/lib/uchar
+S /Users/avsm/.opam/foo/lib/uuidm
+S /usr/local/lib/ocaml
+S ../src
+S .
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs
